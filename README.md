@@ -1,2 +1,6 @@
 # hello-cosmos
-genesis
+# genesis
+
+I am a construction made out of connections.
+
+
